@@ -7,14 +7,18 @@ h2 {
 }
 
 .Android {
+  float: left;
   display: block;
   width: 50%;
-  background-color: teal;
+  background-color: white;
+  font-size: 10;
 }
 
 .IOS {
+  float: left;
   text-align: right;
   display: block;
   width: 50%;
-  background-color: teal;
+  background-color: white;
+  font-size: 10;
 }
