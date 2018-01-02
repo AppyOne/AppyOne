@@ -9,11 +9,11 @@ h2 {
 .Android {
   display: block;
   width: 50%;
-  background-color: white;
+  background-color: teal;
 }
 
 .IOS {
   display: block;
   width: 50%;
-  background-color: white;
+  background-color: teal;
 }
