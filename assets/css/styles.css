@@ -9,5 +9,11 @@ h2 {
 .Android {
   display: block;
   width: 50%;
-  background-color: red;
+  background-color: white;
+}
+
+.IOS {
+  display: block;
+  width: 50%;
+  background-color: white;
 }
