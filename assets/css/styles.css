@@ -13,6 +13,7 @@ h2 {
 }
 
 .IOS {
+  text-align: right;
   display: block;
   width: 50%;
   background-color: teal;
