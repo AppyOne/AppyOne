@@ -8,17 +8,50 @@ h2 {
 
 .Android {
   float: left;
+  text-align: center;
   display: block;
   width: 50%;
   background-color: white;
-  font-size: 10;
+  font-size: 30;
 }
 
 .IOS {
   float: left;
-  text-align: right;
+  text-align: center;
   display: block;
   width: 50%;
   background-color: white;
-  font-size: 10;
+  font-size: 30;
+}
+
+.AppTalk_A {
+  float: left;
+  text-align: center;
+  display: block;
+  width: 29%;
+  height: 125;
+  font-size: 20;
+  background-color: #ECF0F1;
+  color: #1D8348
+  border: 1px;
+  border: 1px dotted;
+  border: solid black;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.AppTalk_I {
+  float: left;
+  text-align: center;
+  display: block;
+  width: 29%;
+  height: 125;
+  font-size: 20;
+  background-color: #ECF0F1;
+  color: #1D8348
+  border: 1px;
+  border: 1px dotted;
+  border: solid black;
+  margin-left: 10%;
+  margin-right: 10%;
 }
